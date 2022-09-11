@@ -5,6 +5,8 @@ This is a basic starter repo designed for writing LLVM passes to help Holistic S
 
 ## Installing LLVM
 
+This requires **Ubuntu 20.04** (and will not work with 22.04).
+
 ```
 wget https://apt.llvm.org/llvm.sh
 chmod +x llvm.sh
