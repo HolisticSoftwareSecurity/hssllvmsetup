@@ -1,4 +1,7 @@
 # hssllvmsetup
+
+**Strong Suggestion: Use a Docker container.**
+
 Setup scripts to install and configure LLVM
 
 This is a basic starter repo designed for writing LLVM passes to help Holistic Software Security Course.
