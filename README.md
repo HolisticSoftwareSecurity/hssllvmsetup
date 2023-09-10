@@ -11,7 +11,7 @@ This is a basic starter repo designed for writing LLVM passes to help Holistic S
 ### Option 1 (on Ubuntu 22.04 and above)
 
 ```
-sudo apt install llvm-12 clang-12 clang++-12 llvm-config-12 opt-12
+sudo apt install llvm-12 clang-12
 sudo ln -s /usr/bin/clang-12 /usr/bin/clang
 sudo ln -s /usr/bin/clang++-12 /usr/bin/clang++
 sudo ln -s /usr/bin/llvm-config-12 /usr/bin/llvm-config
