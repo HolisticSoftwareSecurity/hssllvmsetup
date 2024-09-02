@@ -8,9 +8,10 @@ This is a basic starter repo designed for writing LLVM passes to help Holistic S
 
 ## Installing LLVM
 
-### Option 1 (on Ubuntu 22.04 and above)
+### Option 1 (on Ubuntu 22.04)
 
 ```
+sudo apt install build-essential make cmake unzip zlib1g-dev wget git
 sudo apt install llvm-12 clang-12
 sudo ln -s /usr/bin/clang-12 /usr/bin/clang
 sudo ln -s /usr/bin/clang++-12 /usr/bin/clang++
